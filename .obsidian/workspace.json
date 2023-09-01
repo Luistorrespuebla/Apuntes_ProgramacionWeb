@@ -21,14 +21,86 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unidad_1/00-Arquitectura de una aplicación web.md",
+                "file": "Unidad_1/Apuntes_U1/00-Arquitectura de una aplicación web.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "015a3e124f6f78a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unidad_1/Tareas_U1/00-Requerimientos_para_una_tienda_en_linea.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bea1ead13e9bb4c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unidad_1/Apuntes_U1/00-Arquitectura de una aplicación web.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa03a136fa077993",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unidad_1/Tareas_U1/02-Mokups.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b970376f9db5355",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unidad_1/Tareas_U1/00-Requerimientos_para_una_tienda_en_linea.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a5de7cd16d52c34b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unidad_2/01-Elementos_básicos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd2daa055d37c730",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Galvanismo.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -94,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unidad_1/00-Arquitectura de una aplicación web.md",
+                "file": "Galvanismo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unidad_1/00-Arquitectura de una aplicación web.md",
+                "file": "Galvanismo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unidad_1/00-Arquitectura de una aplicación web.md"
+                "file": "Galvanismo.md"
               }
             }
           }
@@ -155,12 +227,25 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "c6495f312d5dd942",
+  "active": "bd2daa055d37c730",
   "lastOpenFiles": [
+    "Galvanismo.md",
+    "Unidad_1",
+    "Unidad_2",
+    "Unidad_2/01-Elementos_básicos.md",
+    "Unidad_1/Tareas_U1/00-Requerimientos_para_una_tienda_en_linea.md",
+    "Unidad_1/Tareas_U1/01-Diferencias_displayflex_displaygrid.md",
+    "Unidad_1/Tareas_U1/02-Mokups.md",
+    "Img/mokup_1.png",
+    "Img",
+    "Img.md",
+    "Img/mokup_3.png",
+    "Img/mokup_2.png",
+    "Unidad_1/Apuntes_U1/00-Arquitectura de una aplicación web.md",
+    "Unidad_1/Tareas_U1",
     "gitignore",
     "git_ignore",
     "Unidad_1/git_ignore",
-    "Unidad_1/00-Arquitectura de una aplicación web.md",
-    "Unidad_1"
+    "Unidad_1/Apuntes_U1"
   ]
 }
